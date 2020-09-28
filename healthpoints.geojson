@@ -1,0 +1,137 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.682899,41.4952748 ]
+    },
+    "properties": {
+    "title":"Cleveland Treatment Center",
+    "care_center":"TRUE",
+    "drive_through_pharmacy":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.684718,41.506516 ]
+    },
+    "properties": {
+    "title":"Care Alliance Health Center",
+    "care_center":"TRUE",
+    "drive_through_pharmacy":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.516122,41.457447 ]
+    },
+    "properties": {
+    "title":"Glenbeigh Hospital",
+    "care_center":"TRUE",
+    "drive_through_pharmacy":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.7098349,41.4878447 ]
+    },
+    "properties": {
+    "title":"Covenant",
+    "care_center":"TRUE",
+    "drive_through_pharmacy":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.533816,41.5016392 ]
+    },
+    "properties": {
+    "title":"Oakview Behavioral Health Center",
+    "care_center":"TRUE",
+    "drive_through_pharmacy":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.493408,41.4658952 ]
+    },
+    "properties": {
+    "title":"Inspire Recovery Center",
+    "care_center":"TRUE",
+    "drive_through_pharmacy":"FALSE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.632887,41.503215 ]
+    },
+    "properties": {
+    "title":"CVS",
+    "care_center":"FALSE",
+    "drive_through_pharmacy":"TRUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.580747,41.532408 ]
+    },
+    "properties": {
+    "title":"Walgreens",
+    "care_center":"FALSE",
+    "drive_through_pharmacy":"TRUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.706808,41.470229 ]
+    },
+    "properties": {
+    "title":"Rite Aid",
+    "care_center":"FALSE",
+    "drive_through_pharmacy":"TRUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.703508,41.4696 ]
+    },
+    "properties": {
+    "title":"Clark Low Cost Pharmacy",
+    "care_center":"FALSE",
+    "drive_through_pharmacy":"TRUE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.637947,41.452647 ]
+    },
+    "properties": {
+    "title":"Discount Drug Mart ",
+    "care_center":"FALSE",
+    "drive_through_pharmacy":"TRUE"
+    }
+  }
+]
+}
