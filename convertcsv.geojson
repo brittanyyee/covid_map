@@ -9,8 +9,8 @@
     },
     "properties": {
     "title":"Cleveland Treatment Center",
-    "care_center":"TRUE",
-    "drive_through_pharmacy":"FALSE",
+    "care":"true",
+    "drive":"false",
     "description":"care center",
     "icon":"https://raw.githubusercontent.com/brittanyyee/venue-finder/master/dist/oie_28174249wQ118C3O.png"
     }
@@ -23,8 +23,8 @@
     },
     "properties": {
     "title":"Care Alliance Health Center",
-    "care_center":"TRUE",
-    "drive_through_pharmacy":"FALSE",
+    "care":"true",
+    "drive":"false",
     "description":"care center",
     "icon":"https://raw.githubusercontent.com/brittanyyee/venue-finder/master/dist/oie_28174249wQ118C3O.png"
     }
@@ -37,8 +37,8 @@
     },
     "properties": {
     "title":"Glenbeigh Hospital",
-    "care_center":"TRUE",
-    "drive_through_pharmacy":"FALSE",
+    "care":"true",
+    "drive":"false",
     "description":"care center",
     "icon":"https://raw.githubusercontent.com/brittanyyee/venue-finder/master/dist/oie_28174249wQ118C3O.png"
     }
@@ -51,8 +51,8 @@
     },
     "properties": {
     "title":"Covenant",
-    "care_center":"TRUE",
-    "drive_through_pharmacy":"FALSE",
+    "care":"true",
+    "drive":"false",
     "description":"care center",
     "icon":"https://raw.githubusercontent.com/brittanyyee/venue-finder/master/dist/oie_28174249wQ118C3O.png"
     }
@@ -65,8 +65,8 @@
     },
     "properties": {
     "title":"Oakview Behavioral Health Center",
-    "care_center":"TRUE",
-    "drive_through_pharmacy":"FALSE",
+    "care":"true",
+    "drive":"false",
     "description":"care center",
     "icon":"https://raw.githubusercontent.com/brittanyyee/venue-finder/master/dist/oie_28174249wQ118C3O.png"
     }
@@ -79,8 +79,8 @@
     },
     "properties": {
     "title":"Inspire Recovery Center",
-    "care_center":"TRUE",
-    "drive_through_pharmacy":"FALSE",
+    "care":"true",
+    "drive":"false",
     "description":"care center",
     "icon":"https://raw.githubusercontent.com/brittanyyee/venue-finder/master/dist/oie_28174249wQ118C3O.png"
     }
@@ -93,8 +93,8 @@
     },
     "properties": {
     "title":"CVS",
-    "care_center":"FALSE",
-    "drive_through_pharmacy":"TRUE",
+    "care":"false",
+    "drive":"true",
     "description":"drive through pharmacy",
     "icon":"http://maps.gstatic.com/mapfiles/markers2/boost-marker-mapview.png"
     }
@@ -107,8 +107,8 @@
     },
     "properties": {
     "title":"Walgreens",
-    "care_center":"FALSE",
-    "drive_through_pharmacy":"TRUE",
+    "care":"false",
+    "drive":"true",
     "description":"drive through pharmacy",
     "icon":"http://maps.gstatic.com/mapfiles/markers2/boost-marker-mapview.png"
     }
@@ -121,8 +121,8 @@
     },
     "properties": {
     "title":"Rite Aid",
-    "care_center":"FALSE",
-    "drive_through_pharmacy":"TRUE",
+    "care":"false",
+    "drive":"true",
     "description":"drive through pharmacy",
     "icon":"http://maps.gstatic.com/mapfiles/markers2/boost-marker-mapview.png"
     }
@@ -135,8 +135,8 @@
     },
     "properties": {
     "title":"Clark Low Cost Pharmacy",
-    "care_center":"FALSE",
-    "drive_through_pharmacy":"TRUE",
+    "care":"false",
+    "drive":"true",
     "description":"drive through pharmacy",
     "icon":"http://maps.gstatic.com/mapfiles/markers2/boost-marker-mapview.png"
     }
@@ -149,8 +149,8 @@
     },
     "properties": {
     "title":"Discount Drug Mart ",
-    "care_center":"FALSE",
-    "drive_through_pharmacy":"TRUE",
+    "care":"false",
+    "drive":"true",
     "description":"drive through pharmacy",
     "icon":"http://maps.gstatic.com/mapfiles/markers2/boost-marker-mapview.png"
     }
